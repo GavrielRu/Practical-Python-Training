@@ -317,7 +317,7 @@ for transforming, filtering, or collecting data.  Due to the syntax,
 you don’t want to go overboard—try to keep each list comprehension as
 simple as possible.  It’s okay to break things into multiple
 steps. For example, it’s not clear that you would want to spring that
-last example on your unsuspecting co-workers (especially Elor, he is kinda slow).
+last example on your unsuspecting co-workers.
 
 That said, knowing how to quickly manipulate data is a skill that’s
 incredibly useful.  There are numerous situations where you might have
